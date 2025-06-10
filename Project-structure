@@ -1,0 +1,5 @@
+project/
+├── app.ipynb              # Main notebook
+├── agenda.db              # Local SQLite DB
+├── README.md              # Project overview
+├── requirements.txt       # Libraries used
